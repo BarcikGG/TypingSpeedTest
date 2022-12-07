@@ -1,0 +1,17 @@
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.exe
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.deps.json
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.runtimeconfig.json
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.dll
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\bin\Debug\net6.0\SpeedTest.pdb
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfoInputs.cache
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.AssemblyInfo.cs
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.dll
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\refint\SpeedTest.dll
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.pdb
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.genruntimeconfig.cache
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\ref\SpeedTest.dll
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danil\Desktop\c# projects\SpeedTest\SpeedTest\obj\Debug\net6.0\SpeedTest.csproj.CopyComplete
